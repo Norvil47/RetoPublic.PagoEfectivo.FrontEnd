@@ -3,7 +3,7 @@
 ## Notas
 
 1.  Desarrollado con Vue3 
-2.  Desplegado en GitHubs Pages https://norvil47.github.io/Test.PagoEfectivo.FrontEnd 
+2.  Desplegado en GitHubs Pages https://norvil47.github.io/RetoPublic.PagoEfectivo.FrontEnd
 
 
 
